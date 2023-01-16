@@ -18,7 +18,7 @@ class homepage extends StatelessWidget {
         height: double.infinity,
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/image3.jpg'),
+            image: AssetImage('images/image4.jpg'),
             fit: BoxFit.cover,
           ),
         ),
